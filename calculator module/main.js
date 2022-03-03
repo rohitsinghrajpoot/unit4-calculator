@@ -12,8 +12,8 @@ var b= 5;
 
 
 
-
-console.log("addition",add(a,b));
-console.log("substraction",subs(a,b))
-console.log('division',div(a,b))
-console.log('multiplication',multi(a,b))
+console.log("----Basic Calculator----")
+console.log("addition :",add(a,b));
+console.log("substraction :",subs(a,b))
+console.log('division :',div(a,b))
+console.log('multiplication :',multi(a,b))
